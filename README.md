@@ -22,3 +22,10 @@ Here are lists of useful websites that I have used.
 * [W3-Schools](https://www.w3schools.com/)
 * [Tutorial points](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 * [Java-script](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+
+# Future Work
+
+
+* Work on the graphics 
+* Make it more user friendly
+* Use it in a future website
